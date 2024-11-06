@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "Lab_AutoMapper\WebApp.csproj", "{9DB5C65C-5228-4D07-B1C2-06F8D7E1E9EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{63A51639-0432-4AB4-B2F1-A686B7A859E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DB5C65C-5228-4D07-B1C2-06F8D7E1E9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB5C65C-5228-4D07-B1C2-06F8D7E1E9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB5C65C-5228-4D07-B1C2-06F8D7E1E9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB5C65C-5228-4D07-B1C2-06F8D7E1E9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A51639-0432-4AB4-B2F1-A686B7A859E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A51639-0432-4AB4-B2F1-A686B7A859E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A51639-0432-4AB4-B2F1-A686B7A859E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A51639-0432-4AB4-B2F1-A686B7A859E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {099E625A-9DFF-4304-8F0E-918E36DE120E}
+	EndGlobalSection
+EndGlobal
